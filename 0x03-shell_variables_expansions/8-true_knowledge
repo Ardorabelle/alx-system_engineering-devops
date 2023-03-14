@@ -1,2 +1,2 @@
 #!/bin/bash
-sum='expr $TRUEKNOWLEDGE + $KW' |echo $sum
+echo $(($TRUEKNOWLEDGE + 128))
