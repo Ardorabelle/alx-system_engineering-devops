@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -uc 
+sort <(uniq -uc list)
