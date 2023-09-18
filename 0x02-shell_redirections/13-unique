@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -cu list
+uniq -u list
